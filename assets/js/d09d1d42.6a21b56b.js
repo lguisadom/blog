@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkluisguisado=self.webpackChunkluisguisado||[]).push([[829],{4893:t=>{t.exports=JSON.parse('{"tag":{"label":"shortcut","permalink":"/tags/shortcut","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/shortcut","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
